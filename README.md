@@ -1,7 +1,7 @@
 # epsim
- Symulator Epidemii Backend
+ Epidemic Simulator Backend
 
-Projekt korzysta z MySQL
+Project uses MySQL
 
-plik z konfiguracją:
+configuration file:
 src/main/resources/application.properties
